@@ -72,6 +72,17 @@ The richer **tagged-animal motifs** (Anne's bird + paws) suit the individual
 package hexes; the umbrella mark can stay a little more abstract (orbits =
 ecosystem).
 
+### move2utils — first package hex (prototype)
+
+![move2utils hex prototype](move2utils-hex-prototype.png)
+
+*(ggplot prototype.)* A GPS track wrapped in a **dBBMM utilisation-distribution
+cloud**, with one **flagged outlier** sitting off the path — i.e. its actual
+core (UDs + probability-based outlier cleaning), in the shared family palette,
+hex and border. Open question for this one: keep the abstract track+cloud, or
+weave in one of Anne's tagged-animal motifs to match the move2 mark more
+closely?
+
 ## Open questions for the team
 
 1. Umbrella mark: abstract orbits (as sketched), or keep Anne's bird + paws in
