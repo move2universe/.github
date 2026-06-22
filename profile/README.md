@@ -60,7 +60,7 @@ with collaborators at the **University of Amsterdam**.
 - **Bart Kranstauber** — University of Amsterdam · lead developer of `move2`
 - **Kamran Safi** — Max Planck Institute of Animal Behavior &amp; University of Konstanz
 - **Anne K. Scharf** — Max Planck Institute of Animal Behavior &amp; University of Konstanz
-- **Finn Robertson** — Max Planck Institute of Animal Behavior
+- **Finn Roberts** — Max Planck Institute of Animal Behavior
 
 <div align="center">
 <sub>Open source under the GPL (&ge; 3). Contributions welcome — see each package's <code>CONTRIBUTING</code> guide.</sub>
