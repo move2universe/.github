@@ -27,7 +27,7 @@ workflow rather than each demanding its own data format.
 |---|---|---|
 | [**move2**](https://bartk.gitlab.io/move2/) | The movement-data class — the foundation the rest build on. | [![CRAN](https://www.r-pkg.org/badges/version/move2)](https://cran.r-project.org/package=move2) |
 | [**move2utils**](https://github.com/move2universe/move2utils) | Utilisation distributions, corridor detection, and probability-based outlier cleaning. | [GitHub](https://github.com/move2universe/move2utils) |
-| [**move2imu**](https://github.com/move2universe/move2imu) | Working with inertial / accelerometer (IMU) sensor data. | *in development* [GitHub](https://github.com/move2universe/move2imu) |
+| [**move2imu**](https://move2universe.github.io/move2imu/) | Working with inertial / accelerometer (IMU) sensor data. | *in development* [GitHub](https://github.com/move2universe/move2imu) |
 | **move2env** | Environmental annotation of tracks. | *early development* |
 
 New here? Start with **move2** for the data structure, then add the packages you need.
